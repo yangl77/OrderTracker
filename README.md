@@ -11,4 +11,4 @@ Configuration:
 
 - Save your Gpt api_key in api_key.json under packages/gpt/authorization.
 
-- Save your proxy in proxy.json if you need it.ß
+- Save your proxy in proxy.json if you need it.
